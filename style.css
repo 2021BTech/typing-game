@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'oxygen';
+}
+/* header */
+body{
+    background-color: #f7f7f7;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.card{
+    width: 650px;
+    height: 350px;
+    background-color: #fff;
+    margin: 12px 0;
+    padding: 24px;
+    text-align: center;
+    box-shadow: 2px 2px 8px 2px #aaa;
+}
+h1{
+    font-size: 50px;
+    font-size: 900;
+    margin-bottom: 15px;
+    color: rgb(57, 57, 240);
+}
+/* paragraph */
+p, .p {
+    font-size: 20px;
+    font-weight: 400;
+}
+/* button style */
+button{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+    margin: 12px 0;
+    padding: 8px;
+    cursor: pointer;
+    background-color: rgb(57, 57, 240);
+    color: #fff;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+/* input text style */
+input[type=text] {
+    font-size: 22px;
+    padding: 8px 0;
+    font-weight: 900;
+    text-align: center;
+    background-color: #f7f7f7;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+/* inside style.css */
+.highlight {
+	background-color: yellow;
+}
+.error {
+	background-color: lightcoral;
+	border-color: red;
+}
