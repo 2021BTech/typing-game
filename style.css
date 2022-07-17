@@ -14,8 +14,7 @@ body{
     flex-direction: column;
 }
 .card{
-    min-width: 450px;
-    height: 350px;
+    width: 450px;
     background-color: #fff;
     margin: 12px 0;
     padding: 24px;
