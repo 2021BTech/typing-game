@@ -8,7 +8,7 @@ const quotes = [
     'Everything you can imagine is real.',
     'Life is like riding a bicycle. To keep your balance, you must keep moving',
     'Reality continues to ruin my life.',
-    'Life isn/t about finding yourself. Life is about creating yourself.',
+    'Life isn\'t about finding yourself. Life is about creating yourself.',
 	'What one man can invent another can discover.',
 	'Nothing clears up a case so much as stating it to another person.',
 	'Education never ends, Watson. It is a series of lessons, with the greatest for the last.',
