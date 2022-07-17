@@ -14,7 +14,7 @@ body{
     flex-direction: column;
 }
 .card{
-    width: 650px;
+    min-width: 650px;
     height: 350px;
     background-color: #fff;
     margin: 12px 0;
@@ -52,7 +52,6 @@ input[type=text] {
     padding: 8px 0;
     font-weight: 900;
     text-align: center;
-    background-color: #f7f7f7;
     border: 2px solid #ccc;
     border-radius: 6px;
     margin-top: 20px;
