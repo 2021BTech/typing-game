@@ -15,7 +15,7 @@ body{
     flex-direction: column;
 }
 .card{
-    width: 450px;
+    width: 350px;
     background-color: #fff;
     margin: 12px 0;
     padding: 24px;
